@@ -23,9 +23,9 @@
 
 Questões sobre algoritmos de classificacao que devem ser capaz de resolver no final do semestre
 
-- [ ] Classification Algorithms and Python Assessment
-- [ ] Duration: 90 minutes Total Marks: 100
-- [ ] Instructions:
+- [X] Classification Algorithms and Python Assessment
+- [X] Duration: 90 minutes Total Marks: 100
+- [X] Instructions:
 
 This assessment consists of 15 multiple-choice questions and 2 coding questions.
 Read each question carefully before answering.
@@ -35,72 +35,72 @@ Do not discuss or share the contents of this assessment with others.
 
 ## Multiple Choice Questions (4 marks each, 60 marks total)
 
-- 1.  Which of the following is NOT a classification algorithm?
+- 1. Which of the following is NOT a classification algorithm?
 
 - [ ] a) k-Nearest Neighbors
 - [ ] b) Decision Trees
-- [ ] c) Linear Regression
+- [X] c) Linear Regression
 - [ ] d) Support Vector Machines
 
-- 2.  Which classification algorithm is most suitable for dealing with large, high-dimensional datasets?
+- 2. Which classification algorithm is most suitable for dealing with large, high-dimensional datasets?
 
 - [ ] a) Naïve Bayes
 - [ ] b) Decision Trees
-- [ ] c) Random Forest
+- [X] c) Random Forest
 - [ ] d) k-Nearest Neighbors
 
-- 3.  What is the primary advantage of using ensemble methods like Random Forest over a single Decision Tree?
+- 3. What is the primary advantage of using ensemble methods like Random Forest over a single Decision Tree?
 
 - [ ] a) Decreased training time
 - [ ] b) Increased interpretability
-- [ ] c) Reduced overfitting
+- [X] c) Reduced overfitting
 - [ ] d) Lower computational complexity
 
-- 4.  What is the purpose of the activation function in a neural network?
+- 4. What is the purpose of the activation function in a neural network?
 
-- [ ] a) To introduce non-linearity
+- [X] a) To introduce non-linearity
 - [ ] b) To optimize weights
 - [ ] c) To calculate the output
 - [ ] d) To reduce overfitting
 
-- 5.  Which of the following is a commonly used activation function in neural networks?
+- 5. Which of the following is a commonly used activation function in neural networks?
 
-- [ ] a) ReLU
+- [X] a) ReLU
 - [ ] b) k-means
-- [ ] c) Sigmoid
+- [X] c) Sigmoid
 - [ ] d) Both a and c
 
-- 6.  In the k-Nearest Neighbors algorithm, what does 'k' represent?
+- 6. In the k-Nearest Neighbors algorithm, what does 'k' represent?
 
 - [ ] a) The number of clusters
 - [ ] b) The number of dimensions
-- [ ] c) The number of neighbors to consider
+- [X] c) The number of neighbors to consider
 - [ ] d) The number of iterations
 
-- 7.  What is the purpose of stratified sampling in the context of machine learning?
+- 7. What is the purpose of stratified sampling in the context of machine learning?
 
-- [ ] a) To ensure even distribution of classes in train and test sets
+- [X] a) To ensure even distribution of classes in train and test sets
 - [ ] b) To balance class weights
 - [ ] c) To increase model accuracy
 - [ ] d) To prevent overfitting
 
-- 8.  Which of the following evaluation metrics is most suitable for imbalanced classification problems?
+- 8. Which of the following evaluation metrics is most suitable for imbalanced classification problems?
 
 - [ ] a) Accuracy
-- [ ] b) Precision
-- [ ] c) Recall
-- [ ] d) F1-score
+- [X] b) Precision
+- [X] c) Recall
+- [X] d) F1-score
 
-- 9.  In Python, which library is most commonly used for machine learning tasks?
+- 9. In Python, which library is most commonly used for machine learning tasks?
 
 - [ ] a) TensorFlow
 - [ ] b) Keras
 - [ ] c) PyTorch
-- [ ] d) Scikit-learn
+- [X] d) Scikit-learn
 
-- 10.  Which of the following Scikit-learn functions is used to split a dataset into training and testing sets?
+- 10. Which of the following Scikit-learn functions is used to split a dataset into training and testing sets?
 
-- [ ] a) train_test_split()
+- [X] a) train_test_split()
 - [ ] b) cross_val_score()
 - [ ] c) fit_transform()
 - [ ] d) GridSearchCV()
