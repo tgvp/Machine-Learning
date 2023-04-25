@@ -34,31 +34,78 @@ Read each question carefully before answering.
 Use the provided answer sheet to mark your answers.
 For coding questions, write your code in Python and submit it as a .py file.
 Do not discuss or share the contents of this assessment with others.
-Multiple Choice Questions (4 marks each, 60 marks total)
 
-Which of the following is NOT a classification algorithm? a) k-Nearest Neighbors b) Decision Trees c) Linear Regression d) Support Vector Machines
+## Multiple Choice Questions (4 marks each, 60 marks total)
 
-Which classification algorithm is most suitable for dealing with large, high-dimensional datasets? a) Naïve Bayes b) Decision Trees c) Random Forest d) k-Nearest Neighbors
+- 1 Which of the following is NOT a classification algorithm?
+- [ ] a) k-Nearest Neighbors
+- [ ] b) Decision Trees
+- [ ] c) Linear Regression
+- [ ] d) Support Vector Machines
 
-What is the primary advantage of using ensemble methods like Random Forest over a single Decision Tree? a) Decreased training time b) Increased interpretability c) Reduced overfitting d) Lower computational complexity
+- 2 Which classification algorithm is most suitable for dealing with large, high-dimensional datasets?
+- [ ] a) Naïve Bayes
+- [ ] b) Decision Trees
+- [ ] c) Random Forest
+- [ ] d) k-Nearest Neighbors
 
-What is the purpose of the activation function in a neural network? a) To introduce non-linearity b) To optimize weights c) To calculate the output d) To reduce overfitting
+- 3 What is the primary advantage of using ensemble methods like Random Forest over a single Decision Tree?
+- [ ] a) Decreased training time
+- [ ] b) Increased interpretability
+- [ ] c) Reduced overfitting
+- [ ] d) Lower computational complexity
 
-Which of the following is a commonly used activation function in neural networks? a) ReLU b) k-means c) Sigmoid d) Both a and c
+- 4 What is the purpose of the activation function in a neural network?
+- [ ] a) To introduce non-linearity
+- [ ] b) To optimize weights
+- [ ] c) To calculate the output
+- [ ] d) To reduce overfitting
 
-In the k-Nearest Neighbors algorithm, what does 'k' represent? a) The number of clusters b) The number of dimensions c) The number of neighbors to consider d) The number of iterations
+- 5 Which of the following is a commonly used activation function in neural networks? 
+- [ ] a) ReLU 
+- [ ] b) k-means
+- [ ] c) Sigmoid
+- [ ] d) Both a and c
 
-What is the purpose of stratified sampling in the context of machine learning? a) To ensure even distribution of classes in train and test sets b) To balance class weights c) To increase model accuracy d) To prevent overfitting
+- 6 In the k-Nearest Neighbors algorithm, what does 'k' represent?
+- [ ] a) The number of clusters
+- [ ] b) The number of dimensions
+- [ ] c) The number of neighbors to consider
+- [ ] d) The number of iterations
 
-Which of the following evaluation metrics is most suitable for imbalanced classification problems? a) Accuracy b) Precision c) Recall d) F1-score
+- 7 What is the purpose of stratified sampling in the context of machine learning?
+- [ ] a) To ensure even distribution of classes in train and test sets
+- [ ] b) To balance class weights
+- [ ] c) To increase model accuracy
+- [ ] d) To prevent overfitting
 
-In Python, which library is most commonly used for machine learning tasks? a) TensorFlow b) Keras c) PyTorch d) Scikit-learn
+- 8 Which of the following evaluation metrics is most suitable for imbalanced classification problems?
+- [ ] a) Accuracy
+- [ ] b) Precision
+- [ ] c) Recall
+- [ ] d) F1-score
 
-Which of the following Scikit-learn functions is used to split a dataset into training and testing sets? a) train_test_split() b) cross_val_score() c) fit_transform() d) GridSearchCV()
+- 9 In Python, which library is most commonly used for machine learning tasks?
+- [ ] a) TensorFlow
+- [ ] b) Keras
+- [ ] c) PyTorch
+- [ ] d) Scikit-learn
 
-Coding Questions
+- 10 Which of the following Scikit-learn functions is used to split a dataset into training and testing sets?
+- [ ] a) train_test_split()
+- [ ] b) cross_val_score()
+- [ ] c) fit_transform()
+- [ ] d) GridSearchCV()
 
-Question 11 (20 marks) Load the famous "Iris" dataset from Scikit-learn's datasets module. Perform the following tasks: a) Split the dataset into train and test sets (70% train, 30% test). b) Train a Decision Tree classifier on the training set. c) Make predictions on the test set and calculate the accuracy score.
+## Coding Questions
 
-Question 12 (20 marks) Load the "Breast Cancer Wisconsin" dataset from Scikit-learn's datasets module. Perform the following tasks: a) Preprocess the dataset by scaling the features using a StandardScaler. b) Implement a k-Nearest Neighbors classifier with k=5 and train it on the entire dataset. c) Use 5-fold cross-validation to estimate the model's accuracy.
+- Question 11 (20 marks) Load the famous "Iris" dataset from Scikit-learn's datasets module. Perform the following tasks:
+- [ ] a) Split the dataset into train and test sets (70% train, 30% test).
+- [ ] b) Train a Decision Tree classifier on the training set.
+- [ ] c) Make predictions on the test set and calculate the accuracy score.
+
+- Question 12 (20 marks) Load the "Breast Cancer Wisconsin" dataset from Scikit-learn's datasets module. Perform the following tasks:
+- [ ] a) Preprocess the dataset by scaling the features using a StandardScaler.
+- [ ] b) Implement a k-Nearest Neighbors classifier with k=5 and train it on the entire dataset.
+- [ ] c) Use 5-fold cross-validation to estimate the model's accuracy.
 
