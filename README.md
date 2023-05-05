@@ -138,8 +138,8 @@ Do not discuss or share the contents of this assessment with others.
 - [ ] b) Train a Decision Tree classifier on the training set.
 - [ ] c) Make predictions on the test set and calculate the accuracy score.
 
-- Question 12 (20 marks).  Load the "Breast Cancer Wisconsin" dataset from Scikit-learn's datasets module. Perform the following tasks:
+- Question 12 (20 marks).  Load the "Breast Cancer Wisconsin" dataset from Scikit-learn's datasets module. Perform the following tasks: Resolução em: [src/knn.ipynb](https://github.com/tgvp/Machine-Learning/blob/main/src/knn.ipynb)
 
-- [ ] a) Preprocess the dataset by scaling the features using a StandardScaler.
-- [ ] b) Implement a k-Nearest Neighbors classifier with k=5 and train it on the entire dataset.
-- [ ] c) Use 5-fold cross-validation to estimate the model's accuracy.
+- [X] a) Preprocess the dataset by scaling the features using a StandardScaler.
+- [X] b) Implement a k-Nearest Neighbors classifier with k=5 and train it on the entire dataset.
+- [X] c) Use 5-fold cross-validation to estimate the model's accuracy.
