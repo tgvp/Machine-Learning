@@ -133,12 +133,13 @@ Do not discuss or share the contents of this assessment with others.
 ### Coding Questions
 
 - Question 11 (20 marks).  Load the famous "Iris" dataset from Scikit-learn's datasets module. Perform the following tasks:
+  - Resolução em: [src/decision_tree.ipynb](https://github.com/tgvp/Machine-Learning/blob/main/src/decision_tree.ipynb)
+- [X] a) Split the dataset into train and test sets (70% train, 30% test).
+- [X] b) Train a Decision Tree classifier on the training set.
+- [X] c) Make predictions on the test set and calculate the accuracy score.
 
-- [ ] a) Split the dataset into train and test sets (70% train, 30% test).
-- [ ] b) Train a Decision Tree classifier on the training set.
-- [ ] c) Make predictions on the test set and calculate the accuracy score.
-
-- Question 12 (20 marks).  Load the "Breast Cancer Wisconsin" dataset from Scikit-learn's datasets module. Perform the following tasks: Resolução em: [src/knn.ipynb](https://github.com/tgvp/Machine-Learning/blob/main/src/knn.ipynb)
+- Question 12 (20 marks).  Load the "Breast Cancer Wisconsin" dataset from Scikit-learn's datasets module. Perform the following tasks:
+  - Resolução em: [src/knn.ipynb](https://github.com/tgvp/Machine-Learning/blob/main/src/knn.ipynb)
 
 - [X] a) Preprocess the dataset by scaling the features using a StandardScaler.
 - [X] b) Implement a k-Nearest Neighbors classifier with k=5 and train it on the entire dataset.
