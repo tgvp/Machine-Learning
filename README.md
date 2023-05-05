@@ -8,7 +8,32 @@
 - rsc: materiais utilizados como recurso
 - src: source code
 
-### Exercício 1
+## Aulas:
+Topicos sobre regressao e arvores de decisao
+
+### Training Models
+- Linear Regression 
+- Gradient Descent 
+- Batch and Stochastic Gradient Descent 
+- Logistic Regression 
+- Training and Cost Function 
+- Decision Boundaries 
+- Softmax Regression
+- Decision Trees:
+  - Training and Visualizing a Decision Tree 
+  - Making Predictions 
+  - Estimating Class Probabilities 
+  - The CART Training Algorithm 
+  - Regularization Hyperparameters 
+- Exemplos:
+  - [PCA](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Clustering-Dimensionality-Reduction/Principal%20Component%20Analysis.ipynb)
+  - [Data processing](https://www.slideshare.net/ssuser77b8c6/handson-machine-learning-with-scikitlearn-and-tensorflow-chapter8)
+  - [Numpy](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_operations.ipynb)
+  - [Pandas](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Pandas_Operations.ipynb)
+  - [np e pd](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_Pandas_Quick.ipynb)
+  - [Referências](https://machine-learning-with-python.readthedocs.io/en/latest/)
+
+## Exercício 1
 
 - 1 analise descritiva dos dado; comente os resultados
 - 2 crie tabelas usando o metodo pandas crosstabular entre as variaveis categoricas.
@@ -19,7 +44,7 @@
 - 4 Faca uma analise PCA dos dados usando label encoding
 - 5 Construa uma visualizacao dos dados usando as 2 primeiras componentes do PCA
 
-### Exercício 2
+## Exercício 2
 
 Questões sobre algoritmos de classificacao que devem ser capaz de resolver no final do semestre
 
@@ -33,7 +58,7 @@ Use the provided answer sheet to mark your answers.
 For coding questions, write your code in Python and submit it as a .py file.
 Do not discuss or share the contents of this assessment with others.
 
-## Multiple Choice Questions (4 marks each, 60 marks total)
+### Multiple Choice Questions (4 marks each, 60 marks total)
 
 - 1. Which of the following is NOT a classification algorithm?
 
@@ -105,7 +130,7 @@ Do not discuss or share the contents of this assessment with others.
 - [ ] c) fit_transform()
 - [ ] d) GridSearchCV()
 
-## Coding Questions
+### Coding Questions
 
 - Question 11 (20 marks).  Load the famous "Iris" dataset from Scikit-learn's datasets module. Perform the following tasks:
 
