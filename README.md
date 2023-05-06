@@ -2,11 +2,11 @@
 
 - Repositório com material relativo ao desenvolvimento de atividades práticas relativas à disciplina.
 
-### Estrutura:
+### Structure:
 
-- data: datasets
-- rsc: resources containing generated or output data
-- src: source code
+- `data`: datasets
+- `rsc`: resources containing generated or output data
+- `src`: source code
   - [KNN](https://github.com/tgvp/Machine-Learning/blob/main/src/knn.ipynb)
   - [Decision Tree](https://github.com/tgvp/Machine-Learning/blob/main/src/decision_tree.ipynb)
 
