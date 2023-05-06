@@ -5,8 +5,10 @@
 ### Estrutura:
 
 - data: datasets
-- rsc: materiais utilizados como recurso
+- rsc: resources containing generated or output data
 - src: source code
+  - [KNN](https://github.com/tgvp/Machine-Learning/blob/main/src/knn.ipynb)
+  - [Decision Tree](https://github.com/tgvp/Machine-Learning/blob/main/src/decision_tree.ipynb)
 
 ## Aulas:
 Topicos sobre regressao e arvores de decisao
