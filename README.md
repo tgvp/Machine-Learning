@@ -1,6 +1,6 @@
-## Tópicos em Machine Learning
+## Machine Learning
 
-- Repositório com material relativo ao desenvolvimento de atividades práticas relativas à disciplina.
+- Repository that constains practices and assignments related to Machine Learning.
 
 ### Structure:
 
@@ -9,9 +9,6 @@
 - `src`: source code
   - [KNN](https://github.com/tgvp/Machine-Learning/blob/main/src/knn.ipynb)
   - [Decision Tree](https://github.com/tgvp/Machine-Learning/blob/main/src/decision_tree.ipynb)
-
-## Aulas:
-Topicos sobre regressao e arvores de decisao
 
 ### Training Models
 - Linear Regression 
@@ -35,7 +32,7 @@ Topicos sobre regressao e arvores de decisao
   - [np e pd](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_Pandas_Quick.ipynb)
   - [Referências](https://machine-learning-with-python.readthedocs.io/en/latest/)
 
-## Exercício 1
+## Assignment 1
 
 - 1 analise descritiva dos dado; comente os resultados
 - 2 crie tabelas usando o metodo pandas crosstabular entre as variaveis categoricas.
@@ -46,7 +43,7 @@ Topicos sobre regressao e arvores de decisao
 - 4 Faca uma analise PCA dos dados usando label encoding
 - 5 Construa uma visualizacao dos dados usando as 2 primeiras componentes do PCA
 
-## Exercício 2
+## Assignment 2
 
 Questões sobre algoritmos de classificacao que devem ser capaz de resolver no final do semestre
 
