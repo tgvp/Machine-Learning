@@ -1,8 +1,8 @@
-This assessment consists of 15 multiple-choice questions and 2 coding questions.
-Read each question carefully before answering.
-Use the provided answer sheet to mark your answers.
-For coding questions, write your code in Python and submit it as a .py file.
-Do not discuss or share the contents of this assessment with others.
+- This assessment consists of 15 multiple-choice questions and 2 coding questions.
+- Read each question carefully before answering.
+- Use the provided answer sheet to mark your answers.
+- For coding questions, write your code in Python and submit it as a .py file or .ipynb.
+- Do not discuss or share the contents of this assessment with others.
 
 ### Multiple Choice Questions (4 marks each, 60 marks total)
 
