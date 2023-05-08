@@ -7,6 +7,7 @@
 - `data`: datasets
 - `rsc`: resources containing generated or output data
 - `src`: source code
+  - [PCA](https://github.com/tgvp/Machine-Learning/blob/main/src/pca.ipynb)
   - [KNN](https://github.com/tgvp/Machine-Learning/blob/main/src/knn.ipynb)
   - [Decision Tree](https://github.com/tgvp/Machine-Learning/blob/main/src/decision_tree.ipynb)
 
