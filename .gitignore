@@ -1,7 +1,10 @@
 data/modelo_10.pth
 src/trained_model.pth
 rsc/modelo_10.pth
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2f86edc (gitignore updated to avoid large files)
 data/pascal_voc_dataset/
 rsc/modelo_treinado_40.pth
 rsc/modelo_treinado_50.pth
