@@ -12,3 +12,6 @@ rsc/test/
 rsc/test50/
 src/modelo_treinado_40.pth
 src/modelo_treinado_50.pth
+rsc/modelo_treinado_20.pth
+rsc/test20/
+src/modelo_treinado_20.pth
