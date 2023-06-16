@@ -1,0 +1,2 @@
+RESNET
+https://towardsdatascience.com/the-annotated-resnet-50-a6c536034758 
