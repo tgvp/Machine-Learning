@@ -1,3 +1,11 @@
 data/modelo_10.pth
 src/trained_model.pth
 rsc/modelo_10.pth
+
+data/pascal_voc_dataset/
+rsc/modelo_treinado_40.pth
+rsc/modelo_treinado_50.pth
+rsc/test/
+rsc/test50/
+src/modelo_treinado_40.pth
+src/modelo_treinado_50.pth
