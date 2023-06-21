@@ -12,6 +12,7 @@
   - [Decision Tree](https://github.com/tgvp/Machine-Learning/blob/main/src/decision_tree.ipynb)
   - [LightGBM](https://github.com/tgvp/Machine-Learning/blob/main/src/lightgbm.ipynb)
   - [Image Segmentation - DeepLab-ResNet-50](https://github.com/tgvp/Machine-Learning/blob/main/src/image_segmentation.ipynb)
+  - [Image Segmentation with UNet implementation](https://github.com/tgvp/Machine-Learning/blob/main/src/img_seg.ipynb)
 
 ### Training Models
 - Linear Regression 
