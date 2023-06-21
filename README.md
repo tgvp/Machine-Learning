@@ -10,6 +10,8 @@
   - [PCA](https://github.com/tgvp/Machine-Learning/blob/main/src/pca.ipynb)
   - [KNN](https://github.com/tgvp/Machine-Learning/blob/main/src/knn.ipynb)
   - [Decision Tree](https://github.com/tgvp/Machine-Learning/blob/main/src/decision_tree.ipynb)
+  - [LightGBM](https://github.com/tgvp/Machine-Learning/blob/main/src/lightgbm.ipynb)
+  - [Image Segmentation - DeepLab-ResNet-50](https://github.com/tgvp/Machine-Learning/blob/main/src/image_segmentation.ipynb)
 
 ### Training Models
 - Linear Regression 
