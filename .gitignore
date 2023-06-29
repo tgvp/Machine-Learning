@@ -55,3 +55,10 @@ src/n_modelo_390.pth
 src/n_modelo_400.pth
 rsc/ntest10/
 chk/
+rsc/ntest350/
+rsc/ntest472/
+rsc/ntest50/
+rsc/train_400_500_accuracy.json
+rsc/train_400_500_dice_score.json
+rsc/train_400_500_epoch_loss.json
+rsc/train_400_500_iou_score.json
